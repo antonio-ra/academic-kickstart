@@ -57,27 +57,21 @@ education:
     institution: University College London
     date_start: 2017-09-01
     date_end: 2018-09-01
-    GPA: Distinction
     summary: |
       Full 4-year (1+3) MRes+PhD scholarship (700 applicants for 15 positions) from the EPSRC Centre for Doctoral Training in Financial Computing and Analytics, a joint collaboration between UCL, LSE and Imperial College London. PhD-level courses in computational statistics. Advanced programming and software development modules in Python and C++.
   - area: MSc Machine Learning
     institution: University College London
     date_start: 2016-09-01
     date_end: 2017-09-01
-    GPA: Distinction
     summary: |
-      Dissertation on the hierarchical Bayesian modelling of decision-making tasks based at the Gatsby Computational Neuroscience Unit under the supervision of Oliver J Robinson and Peter Dayan. Deep and reinforcement learning courses taught by Google DeepMind.
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Dissertation on the hierarchical Bayesian modelling of decision-making tasks based at the Gatsby Computational Neuroscience Unit under the supervision of Oliver J. Robinson and Peter Dayan. Deep and reinforcement learning courses taught by Google DeepMind.
+  - area: BSc (Hons) Mathematics and Physics
+    institution: University of Bath
+    date_start: 2013-09-01
+    date_end: 2016-06-01
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 3.4
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
