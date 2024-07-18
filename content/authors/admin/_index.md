@@ -58,12 +58,8 @@ education:
     date_start: 2017-09-01
     date_end: 2018-09-01
     summary: |
-      GPA: Distinction
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Full 4-year (1+3) MRes+PhD scholarship (700 applicants for 15 positions) from the EPSRC Centre for Doctoral Training in Financial Computing and Analytics, a joint collaboration between UCL, LSE and Imperial College London. PhD-level courses in computational statistics. Advanced programming and software development modules in Python and C++.
+    GPA: Distinction
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
