@@ -43,6 +43,35 @@ interests:
   - Evidence Synthesis
   - Health Technology Assessment
 
+work:
+  - position: Lead Medical Affairs Statistician
+    company_name: Bayer Pharmaceuticals
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-10-01
+    date_end: 2024-04-01
+    summary: |2-
+      Responsibilities include:
+      - Leadership in statistical input to life-cycle management strategies, publication plans, reimbursement requirements, HTA studies and analyses for payers across several therapeutic areas
+      - Leadership of global cross-functional teams to generate publications, presentations and posters
+      - Scientific appraisal of non-randomized study proposals and protocols; statistical and methodological consultation to multi-disciplinary teams
+      - Development and implementation of innovative statistical methodology for payer and reimbursement needs
+      - Oversight of HTA regulations and methodological guidance
+      - Leadership in scientific strategies for real-world evidence projects and causal inference research initiatives among statisticians and epidemiologists
+      - Oversight of the accurate and timely delivery of statistical work outsourced to external collaborators such as HEOR providers
+      - Development of collaborations with academic experts and co-supervision of research projects/partnerships with universities
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+        
 education:
   - area: PhD Statistical Science
     institution: University College London
@@ -58,43 +87,17 @@ education:
     date_start: 2017-09-01
     date_end: 2018-09-01
     summary: |
-      Grade: Distinction. Full 4-year (1+3) MRes+PhD scholarship (700 applicants for 15 positions) from the EPSRC Centre for Doctoral Training in Financial Computing and Analytics, a joint collaboration between UCL, LSE and Imperial College London. PhD-level courses in computational statistics. Advanced programming and software development modules in Python and C++.
+      Full 4-year (1+3) MRes+PhD scholarship (700 applicants for 15 positions) from the EPSRC Centre for Doctoral Training in Financial Computing and Analytics, a joint collaboration between UCL, LSE and Imperial College London. PhD-level courses in computational statistics. Advanced programming and software development modules in Python and C++.
   - area: MSc Machine Learning
     institution: University College London
     date_start: 2016-09-01
     date_end: 2017-09-01
     summary: |
-      Grade: Merit. Dissertation on the hierarchical Bayesian modelling of decision-making tasks based at the Gatsby Computational Neuroscience Unit under the supervision of Oliver J. Robinson and Peter Dayan. Deep and reinforcement learning courses taught by Google DeepMind.
+      Dissertation on the hierarchical Bayesian modelling of decision-making tasks based at the Gatsby Computational Neuroscience Unit under the supervision of Oliver J. Robinson and Peter Dayan. Deep and reinforcement learning courses taught by Google DeepMind.
   - area: BSc (Hons) Mathematics and Physics
     institution: University of Bath
     date_start: 2013-09-01
     date_end: 2016-06-01
-    summary: |
-      Grade: 2:1
-
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
