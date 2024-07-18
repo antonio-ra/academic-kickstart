@@ -1,14 +1,10 @@
 ---
 # Display name
-title: Antonio Remiro Azócar
+title: Antonio Remiro-Azócar
 
 # Full name (for SEO)
 first_name: Antonio
-last_name: Remiro Azócar
-
-# Status emoji
-status:
-  icon: ☕️
+last_name: Remiro-Azócar
 
 # Is this the primary user of the site?
 superuser: true
@@ -30,21 +26,22 @@ profiles:
   - icon: at-symbol
     url: 'mailto:aazw@novonordisk.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/soranalytics
-  - icon: brands/github
-    url: https://github.com/remiroazocar
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/remiroazocar
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.co.uk/citations?user=B1kFX0MAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-2877-2315
+  - icon: brands/github
+    url: https://github.com/remiroazocar        
+  - icon: brands/x
+    url: https://twitter.com/soranalytics
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Biostatistics
+  - Applied Statistics
+  - Evidence Synthesis
+  - Health Technology Assessment
 
 education:
   - area: PhD Artificial Intelligence
