@@ -49,7 +49,7 @@ education:
     date_start: 2018-09-01
     date_end: 2022-03-01
     summary: |
-      Thesis on _covariate adjustment for indirect treatment comparisons_. Supervised by [Prof Gianluca Baio](https://gianluca.statistica.it/) and [Prof Anna Heath](https://sites.google.com/site/annaheathstats/) in the [Statistics for Health Economic Evaluation](https://egon.stats.ucl.ac.uk/research/statistics-health-economics/) research group at the {Department of Statistical Science}(https://www.ucl.ac.uk/statistics/department-statistical-science).
+      Thesis on _covariate adjustment for indirect treatment comparisons_. Supervised by [Prof Gianluca Baio](https://gianluca.statistica.it/) and [Prof Anna Heath](https://sites.google.com/site/annaheathstats/) in the [Statistics for Health Economic Evaluation](https://egon.stats.ucl.ac.uk/research/statistics-health-economics/) research group at the [Department of Statistical Science](https://www.ucl.ac.uk/statistics/department-statistical-science).
     button:
       text: 'Read Thesis'
       url: 'https://discovery.ucl.ac.uk/id/eprint/10144848/1/Remiro%20Azocar__thesis_redacted_final.pdf'
