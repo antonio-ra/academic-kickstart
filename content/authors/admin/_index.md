@@ -58,19 +58,19 @@ education:
     date_start: 2017-09-01
     date_end: 2018-09-01
     summary: |
-      Full 4-year (1+3) MRes+PhD scholarship (700 applicants for 15 positions) from the EPSRC Centre for Doctoral Training in Financial Computing and Analytics, a joint collaboration between UCL, LSE and Imperial College London. PhD-level courses in computational statistics. Advanced programming and software development modules in Python and C++.
+      Grade: Distinction. Full 4-year (1+3) MRes+PhD scholarship (700 applicants for 15 positions) from the EPSRC Centre for Doctoral Training in Financial Computing and Analytics, a joint collaboration between UCL, LSE and Imperial College London. PhD-level courses in computational statistics. Advanced programming and software development modules in Python and C++.
   - area: MSc Machine Learning
     institution: University College London
     date_start: 2016-09-01
     date_end: 2017-09-01
     summary: |
-      Dissertation on the hierarchical Bayesian modelling of decision-making tasks based at the Gatsby Computational Neuroscience Unit under the supervision of Oliver J. Robinson and Peter Dayan. Deep and reinforcement learning courses taught by Google DeepMind.
+      Grade: Merit. Dissertation on the hierarchical Bayesian modelling of decision-making tasks based at the Gatsby Computational Neuroscience Unit under the supervision of Oliver J. Robinson and Peter Dayan. Deep and reinforcement learning courses taught by Google DeepMind.
   - area: BSc (Hons) Mathematics and Physics
     institution: University of Bath
     date_start: 2013-09-01
     date_end: 2016-06-01
     summary: |
-      GPA: 3.4
+      Grade: 2:1
 
 work:
   - position: Director of Cloud Infrastructure
@@ -138,38 +138,11 @@ languages:
   - name: Portuguese
     percent: 25
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
----
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a statistical methodologist within the Biostatistics, Methods and Outreach department at Novo Nordisk. My expertise lies in quantitative evidence synthesis, HTA, HEOR and observational science. I am currently developing and implementing innovative statistical methods for the transportability and generalizability of research data, and for the enrichment of randomized clinical trials with real-world data sources.
+
+I have ample experience as a statistician, researcher and statistical consultant, providing support to the pharmaceutical, biotechnology, and healthcare consultancy sectors. Prior to my current role, I was Lead Medical Affairs Statistician at Bayer Pharmaceuticals. Prior to that, I was an independent contractor providing statistical support to contract research organizations such as IQVIA and ICON plc, and public bodies such as SickKids.
+
+From 2018-2021, I conducted doctoral research at the Department of Statistics, University College London, where I worked with Professor Gianluca Baio and Professor Anna Heath in the Statistics for Health Economic Evaluation research group. I have master's degrees in Machine Learning and Financial Computing from University College London, and hold an undergraduate degree in Mathematics and Physics from the University of Bath.
