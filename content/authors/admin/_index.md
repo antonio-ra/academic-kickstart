@@ -44,21 +44,21 @@ interests:
   - Health Technology Assessment
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Statistical Science
+    institution: University College London
+    date_start: 2018-09-01
+    date_end: 2022-03-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _covariate adjustment for indirect treatment comparisons_. Supervised by [Prof Gianluca Baio](https://gianluca.statistica.it/) and [Prof Anna Heath](https://sites.google.com/site/annaheathstats/) in the [Statistics for Health Economic Evaluation](https://egon.stats.ucl.ac.uk/research/statistics-health-economics/) research group at the {Department of Statistical Science}(https://www.ucl.ac.uk/statistics/department-statistical-science).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://discovery.ucl.ac.uk/id/eprint/10144848/1/Remiro%20Azocar__thesis_redacted_final.pdf'
+  - area: MRes Financial Computing
+    institution: University College London
+    date_start: 2017-09-01
+    date_end: 2018-09-01
     summary: |
-      GPA: 3.8/4.0
+      GPA: Distinction
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
