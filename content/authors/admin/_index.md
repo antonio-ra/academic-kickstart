@@ -94,7 +94,7 @@ education:
     date_end: 2017-09-01
     summary: |
       Dissertation on the hierarchical Bayesian modelling of decision-making tasks based at the Gatsby Computational Neuroscience Unit under the supervision of Oliver J. Robinson and Peter Dayan. Deep and reinforcement learning courses taught by Google DeepMind.
-  - area: BSc (Hons) Mathematics and Physics
+  - area: BSc Mathematics and Physics
     institution: University of Bath
     date_start: 2013-09-01
     date_end: 2016-06-01
