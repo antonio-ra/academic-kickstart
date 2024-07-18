@@ -32,4 +32,5 @@ sections:
     content:
       title: Languages
       username: admin
+      show_skill_percentage: false
 ---
