@@ -41,6 +41,7 @@ sections:
         
     design:
       columns: '1'
+    {{/* 
   - block: collection
     id: papers
     content:
@@ -62,13 +63,14 @@ sections:
         exclude_featured: false
     design:
       view: citation
+    */}}
   - block: collection
     id: talks
     content:
       title: Recent & Upcoming Talks
       filters:
         folders:
-          - event
+28.           - event
     design:
       view: article-grid
       columns: 1
