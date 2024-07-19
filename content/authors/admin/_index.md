@@ -84,15 +84,7 @@ work:
       - Leadership in scientific strategies for real-world evidence projects and causal inference research initiatives among statisticians and epidemiologists
       - Oversight of the accurate and timely delivery of statistical work outsourced to external collaborators such as HEOR providers
       - Development of collaborations with academic experts and co-supervision of research projects/partnerships with universities
-  - position: Statistical Consultant (contract)
-    company_name: Hospital for Sick Children (SickKids)
-    company_url: ''
-    company_logo: ''
-    date_start: 2020-09-01
-    date_end: 2021-03-01
-    summary: |2-
-      Development of internal methodological guidance on indirect treatment comparisons for the Canadian Agency for Drugs and Technologies in Health (CADTH).
-        
+    
 education:
   - area: PhD Statistical Science
     institution: University College London
