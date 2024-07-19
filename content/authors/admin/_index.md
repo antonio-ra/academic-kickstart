@@ -188,6 +188,6 @@ languages:
 
 ## About Me
 
-I am a statistical methodologist within the Biostatistics, Methods and Outreach department at Novo Nordisk. My expertise lies in quantitative evidence synthesis, HTA, HEOR and observational science. I am currently developing and implementing innovative statistical methods for the transportability and generalizability of research data, and for the enrichment of randomized clinical trials with real-world data sources.
+I am a statistical methodologist within the Biostatistics, Methods and Outreach department at [Novo Nordisk](https://www.novonordisk.com/). My expertise lies in quantitative evidence synthesis, HTA, HEOR and observational science. I am currently developing and implementing innovative statistical methods for the transportability and generalizability of research data, and for the enrichment of randomized clinical trials with real-world data sources.
 
 I have ample experience as a statistician, researcher and statistical consultant, providing support to the pharmaceutical, biotechnology, and healthcare consultancy sectors. Prior to my current role, I was Lead Medical Affairs Statistician at Bayer Pharmaceuticals. Prior to that, I was an independent contractor providing statistical support to contract research organizations such as IQVIA and ICON plc, and public bodies such as SickKids.
