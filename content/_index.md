@@ -32,16 +32,13 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: 'My Research'
+      title: 'Research'
       subtitle: ''
       text: |-
         My research lies on the interface between statistics and health technology assessment, involving both methodological and applied problems. My primary interests are the development of statistical methodology to compare treatments in the absence of head-to-head clinical trials, adjusting for differences in patient populations and overcoming limited access to subject-level data.
 
-        Themes: biostatistics, applied statistics, health technology assessment, evidence synthesis, health economic evaluation
-
-        Current interests: indirect treatment comparisons, covariate adjustment, transportability, estimands
+        _Current interests: indirect treatment comparisons, covariate adjustment, transportability, estimands_
         
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
