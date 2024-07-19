@@ -1,5 +1,5 @@
 ---
-title: ISPOR 2024: Advanced Methods for Matching-Adjusted Indirect Comparisons
+title: ISPOR 2024, Advanced Methods for Matching-Adjusted Indirect Comparisons
 
 event: ISPOR 2024
 event_url: https://www.ispor.org/conferences-education/conferences/past-conferences/ispor-2024
