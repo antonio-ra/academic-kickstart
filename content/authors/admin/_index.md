@@ -49,7 +49,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-04-01
-    date_end: 2024-09-01
+    date_end: 
     summary: |
       Responsibilities:
       - Development and implementation of innovative statistical methodology for the transportability and generalizability of research data, and for the enrichment of clinical trials with real-world data sources
