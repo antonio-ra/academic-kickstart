@@ -167,8 +167,17 @@ skills:
       - name: Excel
         description: ''        
       - name: VBA
-        description: ''    
+        description: ''
+  - name: Memberships
+    items:
+      - name: PSI
+        description: 'HTA, RWD'
+      - name: ISPOR
+        description: 'Clinical Outcome Assessment, RWE, Statistical Methods in HEOR'
+      - name: EFSPI/EFPIA
+        description: 'Estimands Implementation Working Group, subteam for late-phase estimands'
 
+        
 languages:
   - name: Spanish 
   - name: English
