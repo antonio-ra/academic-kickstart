@@ -83,6 +83,46 @@ work:
     date_end: 2021-03-01
     summary: |
       Development of internal methodological guidance on indirect treatment comparisons for the Canadian Agency for Drugs and Technologies in Health (CADTH).
+  - position: Statistical Consultant (contract)
+    company_name: Icon plc
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-09-01
+    date_end: 2020-05-01
+    summary: |
+      Development of cure survival modelling methodology for immunotherapy trials in oncology.
+  - position: Statistical Consultant (contract)
+    company_name: IQVIA
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-10-01
+    date_end: 2020-03-01
+    summary: |
+      Survival analysis, meta-analysis, indirect treatment comparisons, systematic literature reviews, statistical support for submission of evidence dossiers to HTA authorities (NICE and SMC), health economic modelling, mixed models, discrete event simulation, Markov modelling, utility mapping, Bayesian analysis, preparation of conference abstracts and manuscripts for publication of research papers}
+  - position: Graduate Teaching Assistant
+    company_name: London School of Economics and Political Science
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-09-01
+    date_end: 2021-06-01
+    summary: |
+      Taught modules on Statistical Models and Data Analysis and Applied Regression to statistics undergraduates.
+  - position: Graduate Teaching Assistant
+    company_name: University College London
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-09-01
+    date_end: 2019-06-01
+    summary: |
+      Taught a module on Introductory Statistical Methods and Computing to life sciences undergraduates. Co-supervisor for MSc research projects. Development of R and Stan programming material for a course in Bayesian methods in health economics.
+  - position: Research Intern
+    company_name: Imperial College London
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-06-01
+    date_end: 2016-09-01
+    summary: |
+      Received a NERC grant to mine under-exploited plant information resources at the Royal Botanic Gardens, Kew. Explored global and regional biodiversity patterns using R and developed statistical models to estimate future species discovery rates and biodiversity hotspots.
 
 education:
   - area: PhD Statistical Science
