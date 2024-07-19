@@ -92,7 +92,6 @@ work:
     date_end: 2021-03-01
     summary: |2-
       Development of internal methodological guidance on indirect treatment comparisons for the Canadian Agency for Drugs and Technologies in Health (CADTH).
-
         
 education:
   - area: PhD Statistical Science
