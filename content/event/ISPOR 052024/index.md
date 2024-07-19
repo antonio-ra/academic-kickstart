@@ -1,5 +1,5 @@
 ---
-title: Advanced Methods for Matching-Adjusted Indirect Comparison (ISPOR 2024)
+title: Advanced Methods for Matching-Adjusted Indirect Comparison
 
 event: ISPOR 2024
 event_url: https://www.ispor.org/conferences-education/conferences/past-conferences/ispor-2024
@@ -12,7 +12,7 @@ address:
   postcode: '30313'
   country: United States
 
-summary: Advanced Methods for Matching-Adjusted Indirect Comparison
+summary: ISPOR 2024
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
