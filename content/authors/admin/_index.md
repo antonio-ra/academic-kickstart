@@ -84,7 +84,7 @@ work:
     summary: |
       Development of internal methodological guidance on indirect treatment comparisons for the Canadian Agency for Drugs and Technologies in Health (CADTH).
   - position: Statistical Consultant (contract)
-    company_name: Icon plc
+    company_name: ICON plc
     company_url: ''
     company_logo: ''
     date_start: 2019-09-01
