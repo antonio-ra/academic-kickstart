@@ -99,7 +99,7 @@ work:
     date_start: 2018-10-01
     date_end: 2020-03-01
     summary: |
-      Survival analysis, meta-analysis, indirect treatment comparisons, systematic literature reviews, statistical support for submission of evidence dossiers to HTA authorities (NICE and SMC), health economic modelling, mixed models, discrete event simulation, Markov modelling, utility mapping, Bayesian analysis, preparation of conference abstracts and manuscripts for publication of research papers}
+      Survival analysis, meta-analysis, indirect treatment comparisons, systematic literature reviews, statistical support for submission of evidence dossiers to HTA authorities (NICE and SMC), health economic modelling, mixed models, discrete event simulation, Markov modelling, utility mapping, Bayesian analysis, preparation of conference abstracts and manuscripts for publication of research papers.
   - position: Graduate Teaching Assistant
     company_name: London School of Economics and Political Science
     company_url: ''
