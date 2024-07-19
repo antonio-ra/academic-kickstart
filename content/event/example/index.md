@@ -43,7 +43,7 @@ image:
 #    url: https://twitter.com/georgecushen
 url_code: 'https://github.com'
 url_pdf: ''
-url_slides: 'https://slideshare.net'
+url_slides: static/uploads/ARA ISPOR 052024.pdf
 url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
