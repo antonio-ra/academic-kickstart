@@ -51,6 +51,7 @@ work:
     date_start: 2024-04-01
     date_end: 2024-09-01
     summary: |2-
+    Responsibilities include:
     - Development and implementation of innovative statistical methodology for the transportability and generalizability of research data, and for the enrichment of clinical trials with real-world data sources
     - Expert statistician for quantitative evidence synthesis, HTA, HEOR and observational science
     - Knowledge-sharing, training and mentoring of statisticians across Biostatistics in statistical methodology, in general and in relation to clinical projects
