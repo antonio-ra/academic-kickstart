@@ -1,5 +1,5 @@
 ---
-title: Advanced Methods for Matching-Adjusted Indirect Comparisons (ISPOR 2024)
+title: Advanced Methods for Matching-Adjusted Indirect Comparison (ISPOR 2024)
 
 event: ISPOR 2024
 event_url: https://www.ispor.org/conferences-education/conferences/past-conferences/ispor-2024
@@ -12,16 +12,12 @@ address:
   postcode: '30313'
   country: United States
 
-summary: Advanced Methods for Matching-Adjusted Indirect Comparisons
+summary: Advanced Methods for Matching-Adjusted Indirect Comparison
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-05-08T10:00:00Z'
 all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
 
 authors:
   - admin
@@ -51,7 +47,7 @@ url_video: https://www.ispor.org/conferences-education/conferences/past-conferen
 Click on the **Slides** button above to view the presentation slides. 
 {{% /callout %}}
 
-This Wednesday, I had the privilege of speaking alongside Shannon Cope (PRECISIONheor) and Harlan Campbell (University of British Columbia) in a breakout session about Advanced Methods for Matching-Adjusted Indirect Comparisons (MAICs) at ISPOR in Atlanta. 
+This Wednesday, I had the privilege of speaking alongside Shannon Cope (PRECISIONheor) and Harlan Campbell (University of British Columbia) in a breakout session about Advanced Methods for Matching-Adjusted Indirect Comparison (MAIC) at ISPOR in Atlanta. 
 
 Shannon chaired the session, discussed the main limitations of existing approaches to MAIC and provided an overview of methods for conducting feasibility assessment. I outlined techniques for enhancing precision, including my two-stage approach to MAIC and weight truncation, alongside other variance reduction methods. Harlan introduced new techniques for enhancing the bias-robustness of MAIC, including augmentation with an outcome model for doubly robust estimation. 
 
