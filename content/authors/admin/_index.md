@@ -172,18 +172,20 @@ skills:
   - name: Memberships
     items:
       - name: PSI
-        description: 'HTA, RWD'
+        description: 'Special Interest Groups: HTA, RWD'
       - name: ISPOR
-        description: 'Clinical Outcome Assessment, RWE, Statistical Methods in HEOR'
+        description: 'Special Interest Groups: Clinical Outcome Assessment, RWE, Statistical Methods in HEOR'
       - name: EFSPI/EFPIA
-        description: 'Estimands Implementation Working Group, subteam for late-phase estimands'
+        description: 'Estimands Implementation Working Group, late-phase estimands sub-team'
 
         
 languages:
-  - name: Spanish 
+  - name: Spanish
+    percent: 100
   - name: English
+    percent: 100
   - name: French
-
+    percent: 50
 ---
 
 ## About Me
