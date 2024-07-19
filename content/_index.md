@@ -37,7 +37,12 @@ sections:
       text: |-
         My research lies on the interface between statistics and health technology assessment, involving both methodological and applied problems. My primary interests are the development of statistical methodology to compare treatments in the absence of head-to-head clinical trials, adjusting for differences in patient populations and overcoming limited access to subject-level data.
 
+        See my [Google Scholar profile](https://scholar.google.co.uk/citations?user=B1kFX0MAAAAJ&hl=en) for an updated list of publications.
+
+        ORCID: 0000-0002-2877-2315
+
         _Current interests: indirect treatment comparisons, covariate adjustment, transportability, estimands_        
+
     design:
       columns: '1'
   - block: collection
