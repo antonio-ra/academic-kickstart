@@ -59,32 +59,7 @@ work:
       - Establishment of external research collaborations and engagement with academia, scientists, regulators and policy-makers
       - Representation of Novo Nordisk internationally at relevant cross-industry working groups and conferences
       - Driving initiation of industrial master thesis/PhD/post-hoc collaborations as well as scientific publications
-  - position: Lead Medical Affairs Statistician
-    company_name: Bayer Pharmaceuticals
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-10-01
-    date_end: 2024-04-01
-    summary: |2-
-      Responsibilities:
-      - Leadership in statistical input to life-cycle management strategies, publication plans, reimbursement requirements, HTA studies and analyses for payers across several therapeutic areas
-      - Leadership of global cross-functional teams to generate publications, presentations and posters
-      - Scientific appraisal of non-randomized study proposals and protocols; statistical and methodological consultation to multi-disciplinary teams
-      - Development and implementation of innovative statistical methodology for payer and reimbursement needs
-      - Oversight of HTA regulations and methodological guidance
-      - Leadership in scientific strategies for real-world evidence projects and causal inference research initiatives among statisticians and epidemiologists
-      - Oversight of the accurate and timely delivery of statistical work outsourced to external collaborators such as HEOR providers
-      - Development of collaborations with academic experts and co-supervision of research projects/partnerships with universities
-    - position: Statistical Consultant (contract)
-    company_name: Hospital for Sick Children (SickKids)
-    company_url: ''
-    company_logo: ''
-    date_start: 2020-09-01
-    date_end: 2021-03-01
-    summary: |2-
-      Development of internal methodological guidance on indirect treatment comparisons for the Canadian Agency for Drugs and Technologies in Health (CADTH).
-    
-
+  
 education:
   - area: PhD Statistical Science
     institution: University College London
