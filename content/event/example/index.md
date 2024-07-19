@@ -1,5 +1,5 @@
 ---
-title: ISPOR 2024, Advanced Methods for Matching-Adjusted Indirect Comparisons
+title: Advanced Methods for Matching-Adjusted Indirect Comparisons (ISPOR 2024)
 
 event: ISPOR 2024
 event_url: https://www.ispor.org/conferences-education/conferences/past-conferences/ispor-2024
@@ -12,8 +12,7 @@ address:
   postcode: '30313'
   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'This Wednesday, I had the privilege of speaking alongside Shannon Cope and Harlan Campbell in a breakout session about Advanced Methods for Matching-Adjusted Indirect Comparisons (MAICs) at ISPOR in Atlanta. Shannon chaired the session, discussed the main limitations of existing approaches to MAIC and provided an overview of methods for conducting feasibility assessment. I outlined techniques for enhancing precision, including my two-stage approach to MAIC and weight truncation, alongside other variance reduction methods. Harlan introduced new techniques for enhancing the bias-robustness of MAIC, including augmentation with an outcome model for doubly robust estimation. As always, ISPOR was a fantastic opportunity for outreach: to stay tuned with recent developments in RWD and observational science, to engage with external collaborators, and to gain insights from experts in my field. I return to Spain energized by the prospect of establishing and driving valuable research collaborations with researchers and scientists with common interests!'
+summary: Advanced Methods for Matching-Adjusted Indirect Comparisons
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -41,35 +40,19 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
+url_code: 
 url_pdf: ''
 url_slides: uploads/ARA ISPOR 052024.pdf
-url_video: 'https://youtube.com'
+url_video: https://www.ispor.org/conferences-education/conferences/past-conferences/ispor-2024/program/thank-you!
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
-  - example
 ---
 
 {{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
+Click on the **Slides** button above to view the presentation slides. 
 {{% /callout %}}
 
-Slides can be added in a few ways:
+This Wednesday, I had the privilege of speaking alongside Shannon Cope (PRECISIONheor) and Harlan Campbell (University of British Columbia) in a breakout session about Advanced Methods for Matching-Adjusted Indirect Comparisons (MAICs) at ISPOR in Atlanta. 
 
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+Shannon chaired the session, discussed the main limitations of existing approaches to MAIC and provided an overview of methods for conducting feasibility assessment. I outlined techniques for enhancing precision, including my two-stage approach to MAIC and weight truncation, alongside other variance reduction methods. Harlan introduced new techniques for enhancing the bias-robustness of MAIC, including augmentation with an outcome model for doubly robust estimation. 
 
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+As always, ISPOR was a fantastic opportunity for outreach: to stay tuned with recent developments in RWD and observational science, to engage with external collaborators, and to gain insights from experts in my field. I return to Spain energized by the prospect of establishing and driving valuable research collaborations with researchers and scientists with common interests!
