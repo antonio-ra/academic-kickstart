@@ -42,6 +42,7 @@ interests:
   - Applied Statistics
   - Evidence Synthesis
   - Health Technology Assessment
+  - Health Economic Evaluation
 
 work:
   - position: Expert in Statistical Methodology
