@@ -1,19 +1,19 @@
 ---
-title: Example Talk
+title: ISPOR 2024: Advanced Methods for Matching-Adjusted Indirect Comparisons
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: ISPOR 2024
+event_url: https://www.ispor.org/conferences-education/conferences/past-conferences/ispor-2024
 
-location: Hugo Blox Builder HQ
+location: Georgia World Congress Center
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 285 Andrew Young International Blvd NW
+  city: Atlanta
+  region: GA
+  postcode: '30313'
   country: United States
 
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: This Wednesday, I had the privilege of speaking alongside Shannon Cope and Harlan Campbell in a breakout session about "Advanced Methods for Matching-Adjusted Indirect Comparisons (MAICs)" at #ISPORAnnual in Atlanta. Shannon chaired the session, discussed the main limitations of existing approaches to MAIC and provided an overview of methods for conducting feasibility assessment. I outlined techniques for enhancing precision, including my "two-stage" approach to MAIC and weight truncation, alongside other variance reduction methods. Harlan introduced new techniques for enhancing the bias-robustness of MAIC, including augmentation with an outcome model for doubly robust estimation. As always, ISPOR was a fantastic opportunity for outreach: to stay tuned with recent developments in RWD and observational science, to engage with external collaborators, and to gain insights from experts in my field. I return to Spain energized by the prospect of establishing and driving valuable research collaborations with researchers and scientists with common interests!
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
