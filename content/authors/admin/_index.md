@@ -50,8 +50,8 @@ work:
     company_logo: ''
     date_start: 2024-04-01
     date_end: 2024-09-01
-    summary: |2-
-    Responsibilities include:
+    summary: |
+    Responsibilities:
     - Development and implementation of innovative statistical methodology for the transportability and generalizability of research data, and for the enrichment of clinical trials with real-world data sources
     - Expert statistician for quantitative evidence synthesis, HTA, HEOR and observational science
     - Knowledge-sharing, training and mentoring of statisticians across Biostatistics in statistical methodology, in general and in relation to clinical projects
@@ -59,17 +59,6 @@ work:
     - Establishment of external research collaborations and engagement with academia, scientists, regulators and policy-makers
     - Representation of Novo Nordisk internationally at relevant cross-industry working groups and conferences
     - Driving initiation of industrial master thesis/PhD/post-hoc collaborations as well as scientific publications
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Lead Medical Affairs Statistician
     company_name: Bayer Pharmaceuticals
     company_url: ''
@@ -77,6 +66,7 @@ work:
     date_start: 2021-10-01
     date_end: 2024-04-01
     summary: |2-
+      Responsibilities:
       - Leadership in statistical input to life-cycle management strategies, publication plans, reimbursement requirements, HTA studies and analyses for payers across several therapeutic areas
       - Leadership of global cross-functional teams to generate publications, presentations and posters
       - Scientific appraisal of non-randomized study proposals and protocols; statistical and methodological consultation to multi-disciplinary teams
