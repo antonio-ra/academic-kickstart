@@ -25,8 +25,8 @@ featured: false
 #    url: https://twitter.com/georgecushen
 url_code: 
 url_pdf: ''
-url_slides: uploads/ARA PSI 022024.pdf
-url_video: https://www.psiweb.org/vod/item/joint-psi-efspi-hta-sig-webinar-indirect-treatment-comparisons---choosing-the-right-tool-for-the-job-(part-1)
+url_slides: uploads/ARA PSI 122023.pdf
+url_video: https://psiweb.org/vod/item/psi-hta-sig-webinar-estimands-picos-and-co.---are-we-losing-or-gaining-in-translation
 
 ---
 
@@ -35,10 +35,8 @@ Click on the **Slides** button above to view the presentation slides.
 Click on the **Video** button above for a recording of the presentation. 
 {{% /callout %}}
 
-It was great to participate in this webinar on indirect treatment comparisons from the [HTA European Special Interest Group](https://psiweb.org/sigs-special-interest-groups/hta). This is a topic that is increasingly relevant within the context of new European Union Joint Clinical Assessment and the development of the EUnetHTA 21 methodological guidelines. I spoke primarily about marginal versus conditional estimands, non-collapsibility and standardization in the specific context of indirect treatment comparisons. 
+It was fantastic to participate in this webinar on estimands, PICOs and the target trial framework from the [HTA European Special Interest Group](https://psiweb.org/sigs-special-interest-groups/hta). Different areas in clinical development, patient access and health technology assessment differ in how they approach their respective research or policy questions. The estimand framework is currently the focus in clinical development, but the PICO framework is prevalent in health technology assessment. Moreover, the target trial emulation framework appears to be preferred for observational comparisons based on real-world data. This webinar aimed to compare and contrast the different frameworks and discuss how they may complement each other, in light of the new European Union regulation for health technology assessment. 
 
-There has been active debate among researchers about whether marginal or conditional treatment effect estimands are more appropriate inferential targets for health technology assessment. Marginal estimands are widely regarded as more appropriate for population-level decision making. In indirect treatment comparisons, challenges arise from the conflation and potential incompatibility of marginal and conditional estimands. This is particularly the case when effect measures are non-collapsible. Model-based marginalization or standardization methods allow one to produce marginal, but covariate-adjusted, treatment effect estimates that are compatible in indirect treatment comparisons.
+I spoke about the PICO framework, which is used in health technology assessment to translate policy questions into research questions. PICOs consist of five components: (1) population; (2) intervention; (3) comparator(s); and (4) outcome. During the reimbursement process, the manufacturer typically submits an evidence dossier that addresses the research questions(s) included in the scope. Best-practice guidelines recommend specifying relevant PICO question(s) in the HTA scoping process. In evidence synthesis, PICO questions are often formulated prior to the analysis in order to guide the data extraction required for systematic literature reviews.
 
-Established covariate-adjusted indirect comparison approaches, e.g., matching-adjustment, can be viewed as methods that marginalize over the covariate distribution of an external study. I outlined currently available covariate adjustment methods for indirect treatment comparisons, and highlighted some of their advantages and disadvantages. I also discussed the implications of non-collapsibility to currently recommended practices in evidence synthesis, the assessment of effect measure modification and heterogeneity, and the definition of estimands with limited access to subject-level data. Standard practices may require updating in light of conflicting views!
-
-There were also very interesting talks from Anja Schiel (Norwegian Medical Products Agency) about the applicability and acceptability of indirect treatment comparisons in the European HTA landscape, and from Suzy Van Sanden (Johnson & Johnson) about the application of matching-adjusted indirect comparison to a prostate cancer case study. 
+Robert Hemmings provided some great insights on the estimand framework and Nicholas Latimer gave a fantastic presentation on decision questions and the perspective of the National Institute for Health and Care Excellence in the United Kingdom. 
