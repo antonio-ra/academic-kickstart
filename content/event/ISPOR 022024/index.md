@@ -36,17 +36,3 @@ Click on the **Video** button above for a recording of the presentation.
 {{% /callout %}}
 
 It was great to participate in this webinar from the [HTA European Special Interest Group](https://psiweb.org/sigs-special-interest-groups/hta) on indirect treatment comparisons, a topic that is increasingly relevant within the context of new European Union Joint Clinical Assessment and the development of the EUnetHTA 21 methodological guidelines. 
-
-This webinar aims to provide information on the purpose and methods for ITC. The speakers will review and compare different approaches for ITC in both anchored and unanchored case. Both drug regulatory and reimbursement body’s views on using ITC will be discussed. The speakers will offer insights into issues such as marginal and conditional effect, unmeasured confounding and provide case studies to demonstrate the use of ITC methods in practice. 
-
-Antonio Remiro-Azocar (Bayer) - Marginal versus conditional estimands, non-collapsibility and standardization in the context of indirect treatment comparisons
-Anja Schiel (Norwegian Medical Products Agency (NoMA) - ITC’s applicability and acceptability in the European HTA landscape
-Suzy Van Sanden (Johnson & Johnson) - Matching-adjusted indirect comparison (MAIC): A case studies in prostate cancer
-Panel discussion
-Related Videos
-
-Marginal versus conditional estimands, non-collapsibility and standardization in the context of indirect treatment comparisons
-
-There is active debate among researchers about whether marginal or conditional treatment effect estimands are more appropriate inferential targets for health technology assessment. Marginal estimands are widely regarded as more appropriate for population-level decision making. In indirect treatment comparisons, challenges arise from the conflation and potential incompatibility of marginal and conditional estimands. This is particularly the case when effect measures are non-collapsible. Model-based marginalization or standardization methods allow one to produce marginal, but covariate-adjusted, treatment effect estimates that are compatible in indirect treatment comparisons.
-
-Established covariate-adjusted indirect comparison approaches, e.g., matching-adjustment, can be viewed as methods that marginalize over the covariate distribution of an external study. Currently available covariate adjustment methods for indirect treatment comparisons will be outlined, and their advantages and disadvantages will be highlighted. The implications of non-collapsibility to currently recommended practices in evidence synthesis, the assessment of effect measure modification and heterogeneity, and the definition of estimands with limited access to subject-level data, will be discussed. Standard practices may require updating in light of conflicting views and the issues discussed.
