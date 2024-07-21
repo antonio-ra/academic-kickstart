@@ -1,9 +1,9 @@
 ---
-title: Indirect treatment comparisons - choosing the right tool for the job
+title: Estimands, PICOs and Co. - Are we losing or gaining in translation?
 
-event: PSI/EFSPI HTA ESIG Webinar
+event: PSI/EFSPI HTA ESIG Webinar Series
 event_url: https://www.psiweb.org/events/past-psi-events/2023/12/07/default-calendar/psi-hta-sig-webinar-estimands-picos-and-co.---are-we-losing-or-gaining-in-translation
-summary: HTA European SIG Webinar
+summary: HTA European SIG Webinar Series
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
