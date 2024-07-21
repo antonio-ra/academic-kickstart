@@ -1,9 +1,9 @@
 ---
 title: Indirect treatment comparisons - choosing the right tool for the job
 
-event: PSI/EFSPI HTA ESIG Webinar
+event: PSI/EFSPI HTA ESIG Webinar Series
 event_url: https://www.psiweb.org/events/event-item/2024/03/18/default-calendar/joint-psi-efspi-hta-sig-meeting-indirect-treatment-comparisons-choosing-the-right-tool-for-the-job
-summary: HTA European SIG Webinar
+summary: HTA European SIG Webinar Series
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
