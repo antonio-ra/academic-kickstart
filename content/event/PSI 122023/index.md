@@ -7,7 +7,7 @@ summary: HTA European SIG Webinar
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-12-07T13:00:00Z'
+date: '2023-12-07T13:00:00Z'
 all_day: false
 
 authors:
