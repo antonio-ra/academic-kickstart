@@ -1,5 +1,5 @@
 ---
-title: Apples and oranges in the context of anchored indirect treatment comparisons
+title: Apples and oranges in the context of indirect treatment comparisons
 event: ISPOR 2023
 event_url: https://www.ispor.org/conferences-education/conferences/past-conferences/ispor-2023
 
