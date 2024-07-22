@@ -20,7 +20,7 @@ abstract: When studying the association between treatment and a clinical outcome
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
