@@ -5,7 +5,7 @@ authors:
 - Anna Heath
 - Gianluca Baio
 date: "2024-02-10T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1186/s12874-024-02157-x"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
