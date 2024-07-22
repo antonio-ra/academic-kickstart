@@ -1,7 +1,7 @@
 ---
 title:  Marginalization of regression-adjusted treatment effects for compatible indirect comparisons
 
-event: R-HTA Workshop 2021
+event: R-HTA Showcase 2021
 event_url: https://r-hta.org/events/workshop/2021/
 
 location: University College London
@@ -11,7 +11,7 @@ address:
   postcode: 'WC1E 7HB'
   country: United Kingdom
 
-summary: R-HTA Workshop 2021
+summary: R-HTA Showcase 2021
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
