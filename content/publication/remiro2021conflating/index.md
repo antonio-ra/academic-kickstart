@@ -1,5 +1,6 @@
 ---
-title: "Conflating marginal and conditional treatment effects"
+title: "Conflating marginal and conditional treatment effects - Comments on “Assessing the performance of population adjustment methods for anchored indirect comparisons - A simulation study”
+
 authors:
 - admin
 - Anna Heath
