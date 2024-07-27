@@ -1,10 +1,10 @@
 ---
-title: "Effect modification in anchored indirect treatment comparison"
+title: "Effect modification in anchored indirect treatment comparison - Comments on “Matching-adjusted indirect comparisons - Application to time-to-event data”"
 authors:
 - admin
 - Anna Heath
 - Gianluca Baio
-date: "2024-02-10T00:00:00Z"
+date: "2022-03-11T00:00:00Z"
 doi: "https://doi.org/10.1002/sim.9286"
 
 # Publication type.
@@ -20,7 +20,7 @@ abstract: This commentary regards a recent simulation study conducted by Aouni, 
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
