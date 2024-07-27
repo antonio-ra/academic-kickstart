@@ -35,5 +35,4 @@ url_video:
 Click on the **Slides** button above to view the presentation slides. 
 {{% /callout %}}
 
-I recently had the privilege of participating in a webinar organised by the [https://www.intindstat.org/](International Indian Statistical Association) and [Health Technology Assessment International](https://htai.org/). I talked about the pivotal role of statisticians in health technology assessment and market access globally, a very timely topic! 
-I was joined by Jani Mueller (HTAi) and Abhirup Dutta Majumdar (PharmaQuant). 
+I recently had the privilege of participating in a webinar organised by the [International Indian Statistical Association](https://www.intindstat.org/) and [Health Technology Assessment International](https://htai.org/). I talked about the pivotal role of statisticians in health technology assessment and market access globally, a very timely topic! I was joined by Jani Mueller (HTAi) and Abhirup Dutta Majumdar (PharmaQuant). 
