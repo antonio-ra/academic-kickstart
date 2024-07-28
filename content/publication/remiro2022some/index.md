@@ -17,7 +17,7 @@ publication_short: ""
 abstract: 
 
 tags:
-- Source Themes
+- Statistics in Medicine
 featured: false
 
 # links:
