@@ -20,7 +20,7 @@ publication_short: ""
 abstract: In this commentary, we highlight the importance of (1) carefully considering and clarifying whether a marginal or conditional treatment effect is of interest in a population-adjusted indirect treatment comparison; and (2) developing distinct methodologies for estimating the different measures of effect. The appropriateness of each methodology depends on the preferred target of inference.
 
 tags:
-- Source Themes
+- Statistics in Medicine
 featured: false
 
 # links:
