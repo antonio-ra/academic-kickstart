@@ -19,12 +19,6 @@ featured: false
 links:
 url_pdf: https://arxiv.org/pdf/2008.05951
 url_code: 'https://github.com/remiroazocar/marginalized_indirect_comparisons_simstudy'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
 ---
 
 This work ultimately evolved into two peer-reviewed publications, on [parametric G-computation in the context of indirect treatment comparisons](https://doi.org/10.1002/jrsm.1565) and [multiple imputation marginalization](https://doi.org/10.1186/s12874-024-02157-x).
