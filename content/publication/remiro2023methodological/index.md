@@ -20,7 +20,7 @@ abstract: We examine four important considerations in the development of covaria
 
 tags:
 - Research Synthesis Methods
-featured: true
+featured: false
 
 # links:
 # - name: ""
