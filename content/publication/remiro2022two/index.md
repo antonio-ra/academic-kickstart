@@ -23,8 +23,8 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://github.com/remiroazocar/Maic2stage
-url_code: 'https://github.com/remiroazocar/MIM'
+url_pdf: https://arxiv.org/pdf/2204.11325
+url_code: 'https://github.com/remiroazocar/Maic2stage'
 url_dataset: ''
 url_poster: ''
 url_project: ''
