@@ -23,8 +23,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/pdf/2305.08284
-url_code: 'https://discovery.ucl.ac.uk/id/eprint/10144848/1/Remiro%20Azocar__thesis_redacted_final.pdf'
+url_pdf: https://discovery.ucl.ac.uk/id/eprint/10144848/1/Remiro%20Azocar__thesis_redacted_final.pdf
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
