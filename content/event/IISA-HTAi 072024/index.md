@@ -27,7 +27,7 @@ featured: false
 url_code: 
 url_pdf: ''
 url_slides: uploads/ARA IISA-HTAi 072024.pdf
-url_video: 
+url_video: https://www.youtube.com/watch?v=CiuVuwLSsKI
 
 ---
 
