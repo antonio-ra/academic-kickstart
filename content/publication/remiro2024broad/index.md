@@ -3,7 +3,7 @@ title: "Broad versus narrow research questions in evidence synthesis: A parallel
 authors:
 - admin
 - Anders Gorst-Rasmussen
-date: "2023-08-09T00:00:00Z"
+date: "2024-08-09T00:00:00Z"
 doi: "https://doi.org/10.1002/jrsm.1741"
 
 # Publication type.
