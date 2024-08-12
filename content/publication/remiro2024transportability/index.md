@@ -18,7 +18,7 @@ abstract: In evidence synthesis, effect modifiers are typically described as var
 
 tags:
 - Statistics in Medicine
-featured: false
+featured: true
 
 # links:
 # - name: ""
