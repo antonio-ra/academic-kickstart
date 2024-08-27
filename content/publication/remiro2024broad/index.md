@@ -24,7 +24,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/jrsm.1741
+url_pdf: https://arxiv.org/pdf/2408.12932
 url_code: ''
 url_dataset: ''
 url_poster: ''
