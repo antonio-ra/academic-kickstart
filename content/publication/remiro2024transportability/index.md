@@ -2,7 +2,7 @@
 title: "Transportability of model-based estimands in evidence synthesis"
 authors:
 - admin
-date: "2024-07-19T00:00:00Z"
+date: "2024-09-18T00:00:00Z"
 doi: "https://doi.org/10.1002/sim.10111"
 
 # Publication type.
@@ -24,7 +24,7 @@ featured: true
 # - name: ""
 #   url: ""
 url_pdf: https://arxiv.org/pdf/2210.01757
-url_code: ''
+url_code: 'https://github.com/remiroazocar/conditional_marginal_effect_modifiers'
 url_dataset: ''
 url_poster: ''
 url_project: ''
