@@ -12,7 +12,7 @@ doi: "https://doi.org/10.1002/jrsm.1741"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*In press, Research Synthesis Methods*"
+publication: "*Research Synthesis Methods 15*(5)"
 publication_short: ""
 
 abstract: There has been a transition from broad to more specific research questions in the practice of network meta-analysis (NMA). Such convergence is also taking place in the context of individual registrational trials, following the recent introduction of the estimand framework, which is impacting the design, data collection strategy, analysis and interpretation of clinical trials. The language of estimands has much to offer to NMA, particularly given the “narrow” perspective of treatments and target populations taken in health technology assessment.
