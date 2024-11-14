@@ -173,11 +173,12 @@ skills:
     items:
       - name: PSI
         description: 'Special Interest Groups: HTA, RWD'
-      - name: ISPOR
-        description: 'Special Interest Groups: Clinical Outcome Assessment, RWE, Statistical Methods in HEOR'
+      - name: ASA 
+        description: 'Health Technology Assessment Scientific Working Group, Biopharmaceutical Section'
       - name: EFSPI/EFPIA
         description: 'Estimands Implementation Working Group, late-phase estimands sub-team'
-
+      - name: ISPOR
+        description: 'Special Interest Groups: Statistical Methods in HEOR'
         
 languages:
   - name: Spanish
