@@ -1,5 +1,5 @@
 ---
-title: "Effect modification and non-collapsibility together may lead to conflicting treatment decisions: a review of marginal and conditional estimands and recommendations for decision-making"
+title: "Effect modification and non-collapsibility together may lead to conflicting treatment decisions: A review of marginal and conditional estimands and recommendations for decision-making"
 authors:
 - David M. Phillippo
 - admin
