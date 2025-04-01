@@ -1,15 +1,20 @@
 ---
-title: 'Estimands and Strategies for Handling Treatment Switching As an Intercurrent Event in Evidence Synthesis of Randomized Clinical Trials in Oncology'
+title: 'The ICH E9 (R1) Estimand Framework in the Context of Real-World Data and Observational Studies'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - R. Metcalfe
-  - A. Gorst-Rasmussen
+  - L. Husemoen
   - A. Morga
   - admin
-  - J. Park
+  - F. Kleinjung
+  - K. R. Rantell
+  - A. Besseghir
+  - B. Rosettani
+  - A. Allignol
+  - T. Vaitsiakhovich
+  - P. Polavieja
 
 date: '2024-01-01T00:00:00Z'
 doi: 
