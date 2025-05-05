@@ -172,7 +172,7 @@ skills:
   - name: Activities
     items:
       - name: Research Synthesis Methods
-        description: 'Associate Editor (from Apri 2025)'
+        description: 'Associate Editor (from April 2025)'
       - name: PSI
         description: 'Special Interest Groups: HTA, RWD'
       - name: ASA 
