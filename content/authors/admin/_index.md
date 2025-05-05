@@ -169,16 +169,16 @@ skills:
         description: ''        
       - name: VBA
         description: ''
-  - name: Memberships
+  - name: Activities
     items:
+      - name: Research Synthesis Methods
+        description: 'Associate Editor (from Apri 2025)'
       - name: PSI
         description: 'Special Interest Groups: HTA, RWD'
       - name: ASA 
         description: 'Health Technology Assessment Scientific Working Group, Biopharmaceutical Section'
       - name: EFSPI/EFPIA
         description: 'Estimands Implementation Working Group, late-phase estimands sub-team'
-      - name: ISPOR
-        description: 'Special Interest Groups: Statistical Methods in HEOR'
         
 languages:
   - name: Spanish
