@@ -1,11 +1,12 @@
 ---
 title: "Estimands and their implications for evidence synthesis for oncology: A case study of treatment switching in meta-analysis"
 authors:
-- Quang Vuong
 - Rebecca K. Metcalfe
 - admin
+- Quang Vuong
 - Anders Gorst-Rasmussen
 - Oliver Keene
+- Shomoita Alam
 - Jay J. H. Park
 date: "2024-11-21T00:00:00Z"
 doi: "https://doi.org/10.48550/arXiv.2411.14323"
