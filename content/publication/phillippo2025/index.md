@@ -11,10 +11,10 @@ doi: "https://doi.org/10.1201/9781003031819"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types:  ["book-chapter"]
+publication_types:  ["journal-article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*16(2), Research Synthesis Methods*"
+publication: "In *R for Health Technology Assessment*"
 publication_short: ""
 
 abstract: This chapter explores population-adjusted indirect comparison methods in network meta-analysis, focusing on how to account for effect modifiers when estimating relative treatment effects. It examines various methods, including Matching-Adjusted Indirect Comparison (MAIC), Simulated Treatment Comparison (STC), and multilevel network meta-regression (ML-NMR), comparing their strengths and weaknesses based on data availability (individual participant data (IPD) and aggregate data (AgD)). The chapter highlights the importance of generating estimates relevant to a target population for decision-making and emphasizes ML-NMR's ability to achieve this across various network sizes. Finally, it discusses limitations of existing methods, particularly unanchored analyses, and the ongoing research to improve population adjustment techniques, especially for survival outcomes.
