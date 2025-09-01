@@ -6,7 +6,7 @@ authors:
 - admin
 - Howard Thom 
 date: "2025-06-30T00:00:00Z"
-doi: "https://doi.org/10.1201/9781003031819"
+doi: "https://doi.org/10.1201/9781003031819-13"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
