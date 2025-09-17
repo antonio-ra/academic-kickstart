@@ -25,10 +25,12 @@ featured: true
 url_code: 
 url_pdf: ''
 url_slides: uploads/ARA PSI 052025.pdf
-url_video: https://www.psiweb.org/events/event-item/2025/05/22/default-calendar/psi-webinar-methods-and-tools-integrating-clinical-trial-evidence-with-historical-or-real-world-data-bayesian-borrowing-and-causal-inference
+url_video: 
 ---
 
 {{% callout note %}}
 Click on the **Slides** button above to view the presentation slides. 
 Click on the **Video** button above for a recording of the presentation. 
 {{% /callout %}}
+
+Talk.
