@@ -1,5 +1,5 @@
 ---
-title: A common framework for externally-controlled single-arm trials and unanchored comparisons
+title: PSI Methods and tools integrating clinical trial evidence with historical or real-world data, Bayesian borrowing, and causal inference
 event: PSI RWD Webinar Series
 event_url: https://www.psiweb.org/events/event-item/2025/05/22/default-calendar/psi-webinar-methods-and-tools-integrating-clinical-trial-evidence-with-historical-or-real-world-data-bayesian-borrowing-and-causal-inference
 summary: PSI RWD Webinar Series
@@ -30,7 +30,6 @@ url_video:
 
 {{% callout note %}}
 Click on the **Slides** button above to view the presentation slides. 
-Click on the **Video** button above for a recording of the presentation. 
 {{% /callout %}}
 
 Talk.
