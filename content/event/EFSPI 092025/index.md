@@ -1,8 +1,8 @@
 ---
-title: Considerations for Methodological Innovation for Indirect Treatment Comparisons in Pan-European HTA
+title:  From Trials to Target Populations - Extending Evidence for Decision-Making
 
 event: 10th EFSPI Regulatory Statistics Workshop
-event_url: https://efspieurope.github.io/workshop/data/2025/slides.html
+event_url: https://efspieurope.github.io/workshop/data/2025/slides.html#session-4-from-trials-to-target-populations-extending-evidence-for-decision-making
 summary: 10th EFSPI Regulatory Statistics Workshop
 
 # Talk start and end times.
