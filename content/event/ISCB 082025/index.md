@@ -1,6 +1,5 @@
 ---
-title: When worlds collide: Common methodological themes in meta-analysis, causal inference, and hybrid trial design
-
+title: When worlds collide - Common methodological themes in meta-analysis, causal inference, and hybrid trial design
 event: 46th Conference of the International Society for Clinical Biostatistics
 event_url: https://iscb2025.info/
 summary: 46th Conference of the International Society for Clinical Biostatistics
