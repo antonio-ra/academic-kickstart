@@ -1,5 +1,5 @@
 ---
-title: PSI Methods and tools integrating clinical trial evidence with historical or real-world data, Bayesian borrowing, and causal inference
+title: Methods and tools integrating clinical trial evidence with historical or real-world data, Bayesian borrowing, and causal inference
 event: PSI RWD Webinar Series
 event_url: https://www.psiweb.org/events/event-item/2025/05/22/default-calendar/psi-webinar-methods-and-tools-integrating-clinical-trial-evidence-with-historical-or-real-world-data-bayesian-borrowing-and-causal-inference
 summary: PSI RWD Webinar Series
