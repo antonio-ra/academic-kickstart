@@ -2,7 +2,7 @@
 title: Considerations for Methodological Innovation for Indirect Treatment Comparisons in Pan-European HTA
 
 event: 9th EFSPI Regulatory Statistics Workshop
-event_url: https://efspieurope.github.io/workshop/next.html
+event_url: https://efspieurope.github.io/workshop/data/2024/slides.html
 summary: 9th EFSPI Regulatory Statistics Workshop
 
 # Talk start and end times.
