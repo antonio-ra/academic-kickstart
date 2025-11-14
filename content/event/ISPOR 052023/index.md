@@ -41,7 +41,7 @@ url_slides: uploads/ARA ISPOR 052023.pdf
 Click on the **Slides** button above to view the presentation slides. 
 {{% /callout %}}
 
-At this year's ISPOR conference, I had the privilege of joining Shannon Cope (PRECISIONheor), Jeroen Paul Jansen (University of California San Francisco), Harlan Campbell (University of British Columbia) and Hwee-Lin Wee (National University of Singapore) in presenting a Spotlight Session about "Apples and oranges in the context of anchored indirect treatment comparisons – Is there more to it than effect modifiers?".
+At this year's ISPOR conference, I had the privilege of joining Shannon Cope (PRECISIONheor), Jeroen P. Jansen (University of California San Francisco), Harlan Campbell (University of British Columbia) and Hwee-Lin Wee (National University of Singapore) in presenting a Spotlight Session about "Apples and oranges in the context of anchored indirect treatment comparisons – Is there more to it than effect modifiers?".
 
 The session addressed the estimation of marginal, but covariate-adjusted, treatment effects. Particular focus was placed on indirect treatment comparisons. In this context, "marginalization" or "standardization" is important to compare compatible treatment effects across studies. 
 
