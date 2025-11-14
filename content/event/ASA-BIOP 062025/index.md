@@ -32,4 +32,4 @@ url_video:
 Click on the **Slides** button above to view the presentation slides. 
 {{% /callout %}}
 
-It was fantastic to participate in the [American Statistical Association Biopharmaceutical Section](https://community.amstat.org/biop/home) webinar series. I discussed recent work with Harlan Campbell (University of British Columbia) on estimators for externally controlled single-arm trials and indirect treatment comparisons (see our pre-print [here](https://arxiv.org/abs/2505.00113)). 
+It recently participated in the [American Statistical Association Biopharmaceutical Section](https://community.amstat.org/biop/home) webinar series. I discussed recent work with Harlan Campbell (University of British Columbia) on estimators for externally controlled single-arm trials and indirect treatment comparisons (see our pre-print [here](https://arxiv.org/abs/2505.00113)). 
