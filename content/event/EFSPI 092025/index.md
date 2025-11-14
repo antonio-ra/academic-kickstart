@@ -34,4 +34,6 @@ url_video:
 Click on the **Slides** button above to view the presentation slides. 
 {{% /callout %}}
 
-Talk. 
+I had the privilege of participating in the [10th EFSPI Regulatory Statistics Workshop](https://efspieurope.github.io/workshop/data/2025/slides.html) in Basel, where I gave a talk on estimands for evidence synthesis. My presentation was part of a session ``From Trials to Target Populations -- Extending Evidence for Decision-Making''. Seamus Kent (Erasmus University Rotterdam) set the stage very nicely and Miguel Hernán (Harvard University) gave a fantastic presentation guiding us through target trial emulation using observational data. The presentations were followed by an exciting panel discussion and Q&A together with Anja Schiel. 
+
+My presentation stressed that estimands are just as crucial for synthesizing multiple trials as they are for individual trials. In particular, summary measures and intercurrent event strategies -- not components of frameworks such as PICO -- are important components of the research question and sources of heterogeneity in meta-analyses. 
