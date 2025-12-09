@@ -62,14 +62,13 @@ work:
       - Driving initiation of industrial master thesis/PhD/post-hoc collaborations as well as scientific publications
                
   - position: Honorary Research Fellow
-    company_name: University College London
+    company_name: Department of Statistical Science, University College London
     company_url: ''
     company_logo: ''
     date_start: 2025-12-01
     date_end: 
     summary: |
       Responsibilities:
-      - Based at the Department of Statistical Science
       - Collaboration on methodological research in statistics, scientific publications and supervision of industrial master thesis/PhD/post-doc projects.  
   - position: Lead Medical Affairs Statistician
     company_name: Bayer Pharmaceuticals
