@@ -26,12 +26,13 @@ featured: true
 url_code: 
 url_pdf: ''
 url_slides: uploads/ARA EFSPI 092025.pdf
-url_video: 
+url_video: https://www.youtube.com/watch?v=Y3ZhF6swubg
 
 ---
 
 {{% callout note %}}
 Click on the **Slides** button above to view the presentation slides. 
+Click on the **Video** button above for a recording of the presentation.
 {{% /callout %}}
 
 I had the privilege of participating in the [10th EFSPI Regulatory Statistics Workshop](https://efspieurope.github.io/workshop/data/2025/slides.html) in Basel, where I gave a talk on estimands for evidence synthesis. My presentation was part of a session "From Trials to Target Populations -- Extending Evidence for Decision-Making". Seamus Kent (Erasmus University Rotterdam) set the stage very nicely and Miguel Hernán (Harvard University) gave a fantastic presentation guiding us through target trial emulation using observational data. The presentations were followed by an exciting panel discussion and Q&A together with Anja Schiel (Norwegian Medicinal Products Agency). 
