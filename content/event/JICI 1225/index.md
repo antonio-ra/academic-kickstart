@@ -2,7 +2,7 @@
 title: Data Fusion for Indirect Treatment Comparisons in Health Technology Assessment
 event: Joint Initiative for Causal Inference Seminar
 event_url: https://ctml.berkeley.edu/jici-current-seminars
-summary: Joint Initiative for Causal Inference Seminar
+summary: JICI Lab Seminar Series
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -33,6 +33,6 @@ Click on the **Slides** button above to view the presentation slides.
 Click on the **Video** button above for a recording of the presentation.
 {{% /callout %}}
 
-It was great to participate in this webinar on methods for integrating clinical trial evidence with external data from the [Statisticians in the Pharmaceutical Industry](https://psiweb.org) RWD and Historical Data Special Interest Groups. I presented a common framework for externally controlled trials and indirect treatment comparisons, drawing a link between recent developments in causal inference and evidence synthesis.
+It was a privilege to participate in the Joint Initiative for Causal Inference seminar, hosted by the [Center for Targeted Machine Learning and Causal Inference](https://ctml.berkeley.edu/) at [UC Berkeley](https://www.berkeley.edu/). 
 
-There were also very interesting talks from Satrajit Roychoudhury (Pfizer), Christina Fillmore (GSK) and Isaac Gravestock (Roche) about recent methods, applications, and tools for integrating subject-level-data from clinical trials with external data using Bayesian borrowing and causal inference methods.
+I gave a presentation on data fusion methods for indirect treatment comparisons in health technology assessment. I tried to draw a link between practical indirect comparison problems encountered in health technology assessments and causal inference frameworks for data fusion. 
