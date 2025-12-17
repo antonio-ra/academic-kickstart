@@ -9,7 +9,7 @@ authors:
 - Anna Heath
 - Gianluca Baio
 date: "2025-12-16T00:00:00Z"
-doi: "https://onlinelibrary.wiley.com/doi/10.1002/9781118445112.stat08659"
+doi: "https://doi.org/10.1002/9781118445112.stat08659"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
