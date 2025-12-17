@@ -33,6 +33,6 @@ Click on the **Slides** button above to view the presentation slides.
 Click on the **Video** button above for a recording of the presentation.
 {{% /callout %}}
 
-It was a privilege to participate in the Joint Initiative for Causal Inference seminar, hosted by the [Center for Targeted Machine Learning and Causal Inference](https://ctml.berkeley.edu/) at [UC Berkeley](https://www.berkeley.edu/). 
+It was a privilege to participate in the Joint Initiative for Causal Inference seminar series, hosted by the [Center for Targeted Machine Learning and Causal Inference](https://ctml.berkeley.edu/). 
 
-I gave a presentation on data fusion methods for indirect treatment comparisons in health technology assessment. I tried to draw a link between practical indirect comparison problems encountered in health technology assessments and causal inference frameworks for data fusion. 
+I gave a presentation on indirect treatment comparisons for health technology assessment. I tried to draw a link between practical problems encountered in health technology assessment and "data fusion" problems that have typically been viewed from a causal inference lens. 
