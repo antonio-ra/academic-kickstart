@@ -1,6 +1,6 @@
 ---
 title: Data Fusion for Indirect Treatment Comparisons in Health Technology Assessment
-event: Joint Initiative for Causal Inference Seminar
+event: Joint Initiative for Causal Inference Seminar Series
 event_url: https://ctml.berkeley.edu/jici-current-seminars
 summary: JICI Lab Seminar Series
 
