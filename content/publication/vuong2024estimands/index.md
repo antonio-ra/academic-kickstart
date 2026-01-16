@@ -8,7 +8,7 @@ authors:
 - Oliver Keene
 - Shomoita Alam
 - Jay J. H. Park
-date: "2025-10-16T00:00:00Z"
+date: "2026-01-01T00:00:00Z"
 doi: "http://doi.org/10.1017/rsm.2025.10039"
 
 # Publication type.
