@@ -1,5 +1,5 @@
 ---
-title: "Estimands and their implications for evidence synthesis for oncology: A simulation study of treatment switching in meta-analysis"
+title: "Treatment switching in evidence synthesis in oncology: A systematic review of current meta-analytical practices"
 authors:
 - Rebecca K. Metcalfe
 - Quang Vuong
@@ -26,7 +26,7 @@ abstract: The 2019 ICH E9(R1) addendum highlights the importance of estimands, i
 
 tags:
 - Research Synthesis Methods
-featured: true
+featured: false
 
 # links:
 # - name: ""
